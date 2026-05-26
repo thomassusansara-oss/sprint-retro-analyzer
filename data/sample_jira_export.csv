@@ -1,0 +1,16 @@
+Issue Key,Summary,Assignee,Status,Priority,Story Points,Sprint,Created Date,Resolved Date,Labels,Epic
+PROJ-101,Login page redesign,Alice,Done,High,5,Sprint 12,01-05-2026,08-05-2026,feature,Auth
+PROJ-102,Fix payment gateway bug,Bob,Done,Critical,3,Sprint 12,01-05-2026,06-05-2026,bug,Payments
+PROJ-103,API rate limiting,Alice,Done,Medium,8,Sprint 12,01-05-2026,10-05-2026,feature,API
+PROJ-104,Dashboard charts,Carol,In Progress,High,5,Sprint 12,01-05-2026,,feature,UI
+PROJ-105,User onboarding flow,Bob,Blocked,High,8,Sprint 12,02-05-2026,,blocked,Onboarding
+PROJ-106,Email notifications,Dave,Done,Low,3,Sprint 12,01-05-2026,07-05-2026,feature,Notifications
+PROJ-107,Database migration,Carol,Blocked,Critical,13,Sprint 12,01-05-2026,,blocked,Infrastructure
+PROJ-108,Search functionality,Dave,In Progress,Medium,5,Sprint 12,03-05-2026,,feature,Search
+PROJ-109,Mobile responsiveness,Alice,Done,Medium,3,Sprint 12,01-05-2026,09-05-2026,feature,UI
+PROJ-110,Performance optimisation,Bob,To Do,Low,5,Sprint 12,04-05-2026,,tech-debt,API
+PROJ-111,Auth token refresh,Carol,Done,High,3,Sprint 12,01-05-2026,08-05-2026,feature,Auth
+PROJ-112,Export to CSV feature,Dave,Blocked,Medium,5,Sprint 12,05-05-2026,,blocked,UI
+PROJ-113,Unit test coverage,Alice,To Do,Low,3,Sprint 12,04-05-2026,,tech-debt,QA
+PROJ-114,CI/CD pipeline fix,Bob,Done,High,5,Sprint 12,01-05-2026,07-05-2026,bug,DevOps
+PROJ-115,Dark mode toggle,Carol,To Do,Low,2,Sprint 12,06-05-2026,,feature,UI

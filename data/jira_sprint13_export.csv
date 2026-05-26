@@ -1,0 +1,21 @@
+Issue Key,Summary,Assignee,Status,Priority,Story Points,Sprint,Created Date,Resolved Date,Labels,Epic
+ECOM-201,Implement checkout flow redesign,Priya Sharma,Done,High,8,Sprint 13,01-05-2026,07-05-2026,feature,Checkout
+ECOM-202,Fix broken discount code validation,James O'Brien,Done,Critical,3,Sprint 13,01-05-2026,04-05-2026,bug,Payments
+ECOM-203,Add Apple Pay integration,Priya Sharma,Done,High,13,Sprint 13,01-05-2026,09-05-2026,feature,Payments
+ECOM-204,Product recommendation engine - Phase 1,Rahul Menon,In Progress,High,13,Sprint 13,02-05-2026,,feature,Personalisation
+ECOM-205,Fix session timeout on mobile,James O'Brien,Done,Critical,2,Sprint 13,01-05-2026,05-05-2026,bug,Auth
+ECOM-206,Refactor cart service to microservice,Rahul Menon,Blocked,High,13,Sprint 13,01-05-2026,,blocked,Infrastructure
+ECOM-207,Add wishlist sharing feature,Sofia Lund,Done,Medium,5,Sprint 13,02-05-2026,08-05-2026,feature,Social
+ECOM-208,Migrate product images to CDN,Dev Ops Team,Blocked,Critical,8,Sprint 13,01-05-2026,,blocked,Infrastructure
+ECOM-209,Write unit tests for payment module,James O'Brien,Done,Medium,3,Sprint 13,01-05-2026,06-05-2026,tech-debt,Payments
+ECOM-210,Admin dashboard - order management view,Sofia Lund,In Progress,High,8,Sprint 13,03-05-2026,,feature,Admin
+ECOM-211,Fix incorrect VAT calculation on EU orders,Priya Sharma,Done,Critical,3,Sprint 13,01-05-2026,05-05-2026,bug,Payments
+ECOM-212,Integrate Klaviyo for email marketing,Sofia Lund,Blocked,Medium,5,Sprint 13,04-05-2026,,blocked,Marketing
+ECOM-213,Performance audit and Lighthouse optimisation,Rahul Menon,Done,Medium,5,Sprint 13,01-05-2026,08-05-2026,tech-debt,Performance
+ECOM-214,Add multi-currency support - GBP and EUR,Dev Ops Team,To Do,High,13,Sprint 13,05-05-2026,,feature,Payments
+ECOM-215,Fix search filter reset bug on mobile,James O'Brien,Done,High,2,Sprint 13,01-05-2026,06-05-2026,bug,Search
+ECOM-216,Set up staging environment for QA,Dev Ops Team,In Progress,High,8,Sprint 13,03-05-2026,,tech-debt,Infrastructure
+ECOM-217,Implement GDPR cookie consent banner,Sofia Lund,Done,High,3,Sprint 13,02-05-2026,07-05-2026,feature,Compliance
+ECOM-218,Reduce homepage load time below 2s,Rahul Menon,To Do,Medium,5,Sprint 13,05-05-2026,,tech-debt,Performance
+ECOM-219,Add order tracking page,Priya Sharma,In Progress,Medium,5,Sprint 13,04-05-2026,,feature,Orders
+ECOM-220,Write API documentation for v2 endpoints,James O'Brien,To Do,Low,3,Sprint 13,05-05-2026,,tech-debt,API
