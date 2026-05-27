@@ -11,6 +11,7 @@ Susan Sara Thomas**
 
 
 **What it is**
+
 A browser-based sprint analysis tool that turns a Jira or Trello CSV export into a visual dashboard — with an AI-generated summary and a chatbot you can ask questions to.
 Built as my first hands-on portfolio project while transitioning into Product Management.
 
